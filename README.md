@@ -1,6 +1,6 @@
-## Translate Plus
+## Translate App - with React and Redux Toolkit Thunk
 
-Translate Plus is a web application built with React and Redux Toolkit Thunk, designed to provide seamless translation services with a user-friendly interface. It leverages RapidAPI's Text Translator for fast and accurate translations.
+Translate App is a web application built with React and Redux Toolkit Thunk, designed to provide seamless translation services with a user-friendly interface. It leverages RapidAPI's Text Translator for fast and accurate translations.
 
 ### GIF:
 
