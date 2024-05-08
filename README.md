@@ -4,7 +4,8 @@ Translate App is a web application built with React and Redux Toolkit Thunk, des
 
 ### GIF:
 
-![Screen_Recording_2024-03-04_at_21_18_34_AdobeExpress-ezgif com-optimize](https://github.com/tubayapa/Translate-App-Redux-Toolkit-Thunk/assets/147662888/29161597-7bc0-41f6-b755-4b6ad36cb5bf)
+![309906040-29161597-7bc0-41f6-b755-4b6ad36cb5bf](https://github.com/SakirParlakbileker/Translate-App/assets/147662891/9395538d-53ac-4b3a-8809-2564815b61b5)
+
 
 
 ### Features:
